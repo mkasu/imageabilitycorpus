@@ -2,28 +2,28 @@
 
 This is a (work in progress) corpus on multi-modal imageability norms. 
 
-## (Preliminary) Dataset
+## Preliminary corpus
 
-Currently 118 words (testing data from [2]).
+Currently 118 English words (testing data used in [2]).
 
 _We are working on increasing this corpus in future._
 
 ## Estimated values
 
-- Visual features from [1]: 
+- Visual features data-mined from 5000 images ([1]+[2]): 
 	- Low-level features (SURF, GIST, Color histograms)
 	- High-level features (Object detection, Categories)
-- Language features from [2]:
-	- Pretrained Word embedding (FastText)
-- Phonetic features from [2]:
-	- Bag-of-Words model with using IPA values instead of words
-	- Vectorized word pronunciation model using LSTM
+- Language features data-mined from large-scale text corpus ([2]):
+	- Pre-trained word embedding (FastText)
+- Phonetic features data-mined from word-pronunciation data ([2]):
+	- Bag-of-Words-like model using IPA values of words pronunciation
+	- LSTM-based model to vectorize word pronunciation
 
 ## Implementations
 
 [1] (using only visual features) is available at: https://github.com/mkasu/imageabilityestimation
 
-[2] is planned to be made available in future.
+[2] (extending [1] with textual and phonetic features) is planned to be made available in future.
 
 ## Publications
 
