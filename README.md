@@ -37,7 +37,7 @@ Each value is normalized between [0, 100], but the values correspond to the Lick
 
 [1] (using only visual features) is available at: https://github.com/mkasu/imageabilityestimation
 
-[2] (extending [1] with textual and phonetic features) is planned to be made available in future.
+[2] (extending [1] with language and phonetic features) is planned to be made available in future.
 
 ## Publications
 
