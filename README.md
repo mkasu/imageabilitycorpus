@@ -12,7 +12,7 @@ In our research, we proposed to estimate imageability from large image and text 
 
 ## Preliminary corpus
 
-Currently 118 English words (testing data used in [2]).
+Currently 118 English words (testing data used in [2]) with estimated values for visual, language, phonetic, and combined features.
 
 _We are working on increasing this corpus in future._
 
