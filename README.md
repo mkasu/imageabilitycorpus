@@ -10,7 +10,7 @@ _We are working on increasing this corpus in future._
 
 ## Estimated values
 
-- Visual features data-mined from 5000 images ([1]+[2]): 
+- Visual features data-mined from 5000 images per word ([1]+[2]): 
 	- Low-level features (SURF, GIST, Color histograms)
 	- High-level features (Object detection, Categories)
 - Language features data-mined from large-scale text corpus ([2]):
