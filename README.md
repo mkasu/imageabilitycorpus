@@ -4,9 +4,9 @@ This is a (work in progress) corpus on multi-modal imageability norms.
 
 ## Imageability 
 
-Imageability is "the ease with which a word gives rise to a sensory mental image" (Paivio, Yuille & Madigan. Concreteness, imagery, and meaningfulness values for 925 nouns. 1968)
+Imageability is "the ease with which a word gives rise to a sensory mental image" (Paivio, Yuille & Madigan. Concreteness, imagery, and meaningfulness values for 925 nouns. 1968) There are psycholinguistic corpora which are created by hands through crowd-sourcing. 
 
-There are psycholinguistic corpora which are created by hands through crowd-sourcing. We believe imageability as an extra source of knowledge can be used for multi-modal research as it connects to both visual and language stimuli. For example, it gives hints at whether something is visually ambiguous or not, perceived as abstract or concrete, and so on.
+We believe imageability as an extra source of knowledge can be used for multi-modal research as it connects to both visual and language stimuli. For example, it gives hints at whether something is visually ambiguous or not, perceived as abstract or concrete, and so on.
 
 In our research, we proposed to estimate imageability norms for words from large image and text corpora using data-mining techniques.
 
