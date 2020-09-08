@@ -20,12 +20,12 @@ _We are working on increasing this corpus in future._
 
 The data contains estimated values for three different modalities:
 
-- Visual features data-mined from 5000 images per word ([1]+[2]): 
+- Visual features data-mined from 5000 images per word (used in [1]+[2]): 
 	- Low-level features (SURF, GIST, Color histograms)
 	- High-level features (Object detection, Categories)
-- Language features data-mined from large-scale text corpus ([2]):
+- Language features data-mined from large-scale text corpus (used in [2]):
 	- Pre-trained word embedding (FastText)
-- Phonetic features data-mined from word-pronunciation data ([2]):
+- Phonetic features data-mined from word-pronunciation data (used in [2]):
 	- Bag-of-Words-like model using IPA values of words pronunciation
 	- LSTM-based model to vectorize word pronunciation
 
