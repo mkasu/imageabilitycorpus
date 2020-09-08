@@ -8,7 +8,7 @@ Imageability is "the ease with which a word gives rise to a sensory mental image
 
 There are psycholinguistic corpora which are created by hands through crowd-sourcing. We believe imageability as an extra source of knowledge can be used for multi-modal research as it connects to both visual and language stimuli. 
 
-In our research, we proposed to estimate imageability from large image and text corpora using data-mining techniques.
+In our research, we proposed to estimate imageability norms for words from large image and text corpora using data-mining techniques.
 
 ## Preliminary corpus
 
