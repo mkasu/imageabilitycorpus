@@ -37,6 +37,10 @@ More details of this are discussed in [3].
 
 Each value is given in an interval of [100, 700], corresponding to the Lickert scales used in Psycholinguistic dictionaries (the most common being [1, 5] and [1, 7]).
 
+## Dataset visualizations
+
+Some dataset visualizations were created as part of [3]. The demos showcased in the paper (and possible some extra visualizations) will be made available until the main conference. 
+
 ## Implementations
 
 [1] (using only visual features) is available at: https://github.com/mkasu/imageabilityestimation
