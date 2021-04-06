@@ -49,5 +49,5 @@ Each value is given in an interval of [100, 700], corresponding to the Lickert s
 
 [2] Imageability estimation using visual and language features. Chihaya Matsuhira, Marc A. Kastner, Ichiro Ide, Yasutomo Kawanishi, Takatsugu Hirayama, Keisuke Doman, Daisuke Deguchi, Hiroshi Murase. ACM International Conference on Multimedia Retrieval (ICMR) 2020, June 2020. https://doi.org/10.1145/3372278.3390731.
 
-[3]	A multi-modal dataset for analyzing the imageability of concepts across modalities. Marc A. Kastner, Chihaya Matsuhira, Ichiro Ide, Shin'ichi Satoh. IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR2021), September 2021.
+[3]	A multi-modal dataset for analyzing the imageability of concepts across modalities. Marc A. Kastner, Chihaya Matsuhira, Ichiro Ide, Shin'ichi Satoh. IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR2021), To be published in September 2021.
 
