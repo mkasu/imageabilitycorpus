@@ -39,7 +39,7 @@ Each value is given in an interval of [100, 700], corresponding to the Lickert s
 
 ## Dataset visualizations
 
-Some dataset visualizations were created as part of [3]. The demos showcased in the paper (and possible some extra visualizations) will be made available until the main conference. 
+Some dataset visualizations were created as part of [3]. The demos showcased in the paper are available at https://www.marc-kastner.com/mipr2021viz/index.html.
 
 ## Implementations
 
